@@ -1,5 +1,5 @@
 const get = url => {
-  return { date: { title: 'delectus aut autem' } };
+  return Promise.resolve({ date: { title: 'delectus aut autem' } });
 };
 
 exports.get = get;
