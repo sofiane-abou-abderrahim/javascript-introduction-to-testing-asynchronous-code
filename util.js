@@ -16,3 +16,4 @@ const printTitle = () => {
 };
 
 exports.printTitle = printTitle;
+exports.loadTitle = loadTitle;
