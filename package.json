@@ -19,7 +19,7 @@
     "e2e",
     "tests"
   ],
-  "author": "Maximilian Schwarzmüller/ Academind GmbH",
+  "author": "Sofiane Abou Abderrahim",
   "license": "ISC",
   "devDependencies": {
     "jest": "^23.6.0",
